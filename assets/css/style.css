@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    font-family: "Sixtyfour Convergence", sans-serif;
+}
+
+.site-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #222;
+    color: white;
+    padding: 15px 30px;
+}
+
+.nav a {
+    color: white;
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+    .nav a:hover {
+        text-decoration: underline;
+    }
